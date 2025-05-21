@@ -1,0 +1,16 @@
+{
+  "name": "nodejssetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node ./script.js",
+    "chacha": "echo \"this is good\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jokes": "^0.0.2"
+  }
+}
