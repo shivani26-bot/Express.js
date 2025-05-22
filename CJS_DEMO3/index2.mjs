@@ -22,7 +22,10 @@ let arr = [5, 4, 3, 2, 1];
 arr = mergeSort(arr);
 console.log(arr);
 
-// If you have a module that provides both a default export and named exports, the first import is always the default export. After that, you can specify named exports as needed.
+// If you have a module that provides both a default export and named exports, the first import
+// is always the default export. After that, you can specify named exports as needed.
 // For example, in ES modules, your import statement might look like this:
 // import defaultExport, { namedExport1, namedExport2 } from './module';
-// Here, defaultExport is the default export from the module, while namedExport1 and namedExport2 are the named exports. This structure ensures that the default export is handled first, followed by any additional named exports.
+// Here, defaultExport is the default export from the module, while namedExport1 and
+// namedExport2 are the named exports. This structure ensures that the default export
+// is handled first, followed by any additional named exports.
